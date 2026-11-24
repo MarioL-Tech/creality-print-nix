@@ -1,6 +1,6 @@
 # creality-print-nix
 
-![Illustration of a layered model on a 3D printer build plate](assets/overview.svg)
+![Creality Print running on NixOS](assets/screenshot.png)
 
 Nix flake packaging the official upstream binary of [creality-print](https://github.com/CrealityOfficial/CrealityPrint). This project is not affiliated with or endorsed by upstream.
 

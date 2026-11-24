@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
-  <title id="title">Creality Print for NixOS</title><desc id="desc">Illustration of a 3D printing build plate and a layered cube.</desc>
-  <rect width="960" height="360" rx="24" fill="#101827"/>
-  <text x="48" y="75" fill="#f1f5f9" font-family="sans-serif" font-size="38" font-weight="bold">Creality Print on NixOS</text>
-  <text x="50" y="112" fill="#a5b4c9" font-family="sans-serif" font-size="19">Prepare models for 3D printing</text>
-  <g fill="none" stroke-linejoin="round"><path d="M390 290 L650 290 L790 220 L530 220 Z" stroke="#647a91" stroke-width="4"/><path d="M490 260 L625 260 L702 222 L567 222 Z" stroke="#354a61" stroke-width="2"/><path d="M550 219 V154 L610 128 L671 154 V219 L610 247 Z" stroke="#4ade80" stroke-width="5"/><path d="M550 154 L610 182 L671 154 M610 182 V247 M550 170 L610 198 L671 170 M550 186 L610 214 L671 186 M550 202 L610 230 L671 202" stroke="#86efac" stroke-width="3"/></g>
-</svg>
